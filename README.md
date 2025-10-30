@@ -16,12 +16,15 @@ This project demonstrates basic CRUD operations and database connectivity using 
 💾 Connects to PostgreSQL using JDBC
 
 🧰 Technologies Used
+
 Component	---Technology
-Programming Language---	Java
-Database----	PostgreSQL
-Connector	JDBC Driver---- (postgresql-42.7.8.jar)
-IDE / Editor	----VS Code or Command Prompt
-Version Control-----	Git & GitHub
+
+1.Programming Language---	Java
+2.Database----	PostgreSQL
+3.Connector	JDBC Driver---- (postgresql-42.7.8.jar)
+4.IDE / Editor	----VS Code or Command Prompt
+5.Version Control-----	Git & GitHub
+
 🗂️ Project Structure
 StudentRecordManagement/
 │
