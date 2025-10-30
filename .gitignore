@@ -1,0 +1,17 @@
+# Ignore compiled files
+bin/
+
+# Ignore system files
+Thumbs.db
+Desktop.ini
+
+# Ignore VS Code folder
+.vscode/
+
+# Ignore temporary and log files
+*.class
+*.log
+*.tmp
+
+# Optional: ignore PostgreSQL driver jar if not needed on GitHub
+#lib/postgresql-42.7.8.jar
